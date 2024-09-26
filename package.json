@@ -60,6 +60,9 @@
         "react-native-svg": "^15.6.0"
     },
     "devDependencies": {
+        "@babel/compat-data": "^7.25.4",
+        "@babel/core": "^7.25.2",
+        "@babel/preset-env": "^7.25.4",
         "@react-native-community/bob": "^0.10.0",
         "@storybook/addon-actions": "^3.2.14",
         "@storybook/addon-knobs": "^3.2.14",
@@ -69,7 +72,7 @@
         "babel-jest": "20.0.1",
         "babel-preset-react-native": "1.9.1",
         "date-fns": "^1.28.5",
-        "eslint": "^4.19.0",
+        "eslint": "^3.17.0",
         "eslint-config-standard": "^10.2.1",
         "eslint-plugin-import": "^2.6.0",
         "eslint-plugin-node": "^5.1.0",
